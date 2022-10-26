@@ -1,2 +1,2 @@
-# sagvari
+# Boros Blanka Honlapja
 hello world
